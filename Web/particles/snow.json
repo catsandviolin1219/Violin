@@ -1,0 +1,33 @@
+{
+  "particles": {
+    "number": {
+      "value": 250
+    },
+    "color": {
+      "value": "#997423"
+    },
+    "shape": {
+      "type": "image",
+      "image": {
+        "src" : "images/Violin.jpg"
+      }
+    },
+    "size": {
+      "value": 15,
+      "random": false
+    },
+    "line_linked": {
+      "enable": true,
+      "distance":100,
+      "color": "000000",
+      "opacity": 1,
+      "width": 2
+    },
+    "move": {
+      "enable": true,
+      "speed": 5,
+      "straight": false,
+      "out_mode": "out"
+    }
+  }
+}
